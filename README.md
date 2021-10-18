@@ -1,6 +1,6 @@
-# Video JavaScript Project
+# Scroll JavaScript Project
 
-A Udemy project showcasing video player with play/pause button in JavaScript. This is a more JavaScript type of project within the JavaScript section of the course. 
+A Udemy project showcasing scroll effect in JavaScript. This is a more JavaScript type of project within the JavaScript section of the course. 
 
 ## Contributions
 
